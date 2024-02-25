@@ -501,3 +501,4 @@ const fal = arr[number];
 function changeText() {
     document.getElementById('matn').innerHTML = fal;
 }
+//test
